@@ -1,0 +1,17 @@
+{
+  "name": "PPT",
+  "version": "0.0.0",
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {
+    "adm-zip": "^0.4.7",
+    "crypto": "0.0.3",
+    "imagemagick": "^0.1.3",
+    "mkpath": "^0.1.0",
+    "pdf-image": "file:../../../../var/folders/h4/g54jw24d13j1_g6_8d3zc1300000gp/T/npm-39822-f9c43c67/git-cache-0d765e2428b6/34f25feb657107289e35ef843ae6c63c79c2782d",
+    "unoconv": "^0.1.2"
+  },
+  "scripts": {},
+  "author": "",
+  "license": "BSD-2-Clause"
+}
